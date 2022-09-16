@@ -49,8 +49,8 @@
     width: 50%;
     cursor: pointer;
 }
-.cards img{
-    src: url(../assets/card\ back.png);
+.cards:active{
+    scale: 0.9;
 }
 .card-box{
     width:33%;
